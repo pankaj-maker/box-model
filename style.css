@@ -1,0 +1,15 @@
+body {
+  background-image: url(https://img.freepik.com/free-photo/view-ready-eat-delicious-meal-go_23-2151431768.jpg?t=st=1719420983~exp=1719424583~hmac=a4a05d6bc3e490ef2d8a202c3f33d61603ce61fa19fac9b17f9263b95b010c79&w=900);
+background-size: contain;
+}
+
+.parent {
+  width: 200px;
+  height: 300px;
+  border: 5px solid black;
+  margin: 20px;
+  padding: 50px;
+  background-image: url(https://images.unsplash.com/photo-1551106652-a5bcf4b29ab6);
+  background-size: cover;
+  color: rgb(0, 136, 255);
+}
